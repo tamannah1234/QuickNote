@@ -22,7 +22,6 @@ Scalable SPA applications
 It includes clean code structure, essential tools, and optional integrations like React Router, Redux Toolkit, and React Hot Toast for building production-ready applications.
 
 🧰 Tech Stack Used
-🔹 Core Technologies
 
 ✔️ React — Component-based UI development
 
